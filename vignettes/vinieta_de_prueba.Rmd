@@ -1,0 +1,27 @@
+---
+title: "Como usar el paquete aaaprueba"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{vinieta_de_prueba}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(aaaprueba)
+```
+
+Esta es una viñeta de prueba, la cual nos permite mostrar como funciona la función `suma()` y la función `fahrenheit_a_centigrados()`:
+
+```{r}
+suma(2,2)
+fahrenheit_a_centigrados(100)
+```
+
