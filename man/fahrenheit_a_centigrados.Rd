@@ -2,7 +2,7 @@
 % Please edit documentation in R/fahrenheit_a_centrigrados.R
 \name{fahrenheit_a_centigrados}
 \alias{fahrenheit_a_centigrados}
-\title{Coversión de la temperatura en Fahrenheit a Centigrados}
+\title{Coversion de la temperatura en Fahrenheit a Centigrados}
 \usage{
 fahrenheit_a_centigrados(temp_fahrenheit)
 }
