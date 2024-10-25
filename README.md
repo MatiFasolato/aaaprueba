@@ -4,6 +4,9 @@
 # aaaprueba
 
 <!-- badges: start -->
+
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
 
 El objetivo de este paquete de prueba es ver cómo se crea un paquete y
@@ -51,3 +54,10 @@ You can also embed plots, for example:
 
 In that case, don’t forget to commit and push the resulting figure
 files, so they display on GitHub and CRAN.
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Si deseas contribuir a este
+proyecto, por favor consulta el archivo
+[CONTRIBUTING.md](.github/CONTRIBUTING.md) para más detalles sobre cómo
+puedes ayudar.

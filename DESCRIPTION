@@ -18,5 +18,9 @@ URL: https://github.com/MatiFasolato/aaaprueba, https://matifasolato.github.io/a
 BugReports: https://github.com/MatiFasolato/aaaprueba/issues
 Suggests: 
     knitr,
-    rmarkdown
+    rmarkdown,
+    testthat (>= 3.0.0)
 VignetteBuilder: knitr
+Imports: 
+    dplyr
+Config/testthat/edition: 3

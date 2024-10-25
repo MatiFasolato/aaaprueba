@@ -17,8 +17,9 @@
 #'
 #' @export
 suma <- function(x=1, y=1) {
+  # Chequea que los argumentos sean numéricos
   if (!is.numeric(x) | !is.numeric(y)) {
-    return("ERROR!, los parámetros deben ser numéricos")
+    return("Los argumentos deben ser numericos.")
   }
 
   if (x < 0 | y < 0) {
