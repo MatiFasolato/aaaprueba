@@ -26,5 +26,5 @@ suma <- function(x=1, y=1) {
     return("Error! Sumo únicamente números positivos")
   }
 
-  return(x + y)
+  return(x+y)
 }
