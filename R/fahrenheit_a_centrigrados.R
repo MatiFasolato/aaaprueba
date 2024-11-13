@@ -7,7 +7,7 @@
 #' @param temp_fahrenheit un vector numérico de la temperatura en Fahrenheit
 #'
 #' @return
-#' Un vector numérico de la temperatura en grados centígrados.
+#' Un vector numérico de la temperatura en grados centigrados.
 #'
 #' @examples
 #' fahrenheit_a_centigrados(100)
